@@ -20,3 +20,5 @@ Este projeto realiza a automação do cadastro de produtos em um site, utilizand
 
 - Pyautogui – Automação de interface/web
 
+# 📌 Observações
+- Este projeto é apenas para fins educacionais, como exercício prático do curso da Hashtag Treinamentos.
